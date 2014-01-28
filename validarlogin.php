@@ -91,7 +91,5 @@ if(trim($_POST["nick"]) != "" && trim($_POST["password"]) != "")
 
 	}
 }
-
-
 mysql_close();
 ?>
